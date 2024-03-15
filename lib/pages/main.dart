@@ -1,5 +1,5 @@
 import 'package:app_button/pages/home/home_page.dart';
-import 'package:app_button/pages/pin_login/pin_login_page.dart';
+//import 'package:app_button/pages/pin_login/pin_login_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
